@@ -10,10 +10,10 @@ except IOError:
 setuptools.setup(
     name="tgfilestream",
     version=__version__,
-    url="https://mau.dev/tulir/tgfilestream",
+    url="https://t.me/skmoviesupdate",
 
-    author="Tulir Asokan",
-    author_email="tulir@maunium.net",
+    author="𝐒𝐊 𝐅𝐢𝐥𝐞 𝐭𝐨 𝐋𝐢𝐧𝐤 𝐁𝐨𝐭",
+    author_email="https://t.me/skmoviesupdate",
 
     description="A Telegram bot that can stream Telegram files to users over HTTP.",
     long_description=long_desc,
